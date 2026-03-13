@@ -187,10 +187,10 @@ DELETE | /api/v1/notes/:id | Delete note |
 ![Swagger API](Screenshots/swagger.bmp)
 
 ### Register Page
-![Register](Screenshots/register.bmp)
+![Register](Screenshots/Signup.bmp)
 
 ### Login Page
-![Login](Screenshots/login.bmp)
+![Login](Screenshots/Login.bmp)
 
 ### Dashboard
 ![Dashboard](Screenshots/dashboard.bmp)
